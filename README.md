@@ -23,6 +23,10 @@ Contributions are welcome!
 - [Adobe Express blog posts in Korean](https://velog.io/tags/Adobe-Express) - Translated by Irelander_Kai 🏅
 - [Using FFmpeg to Power Your Adobe Express Add-on](https://medium.com/@uxplugins/using-ffmpeg-to-power-your-adobe-express-add-on-ed246e5c6e6e) - by Ali Yousefi 🏅
 
+## Resources
+
+- [Adobe Fund for Design](https://github.com/AdobeDeveloperCommunity/adobe-express-developer-resources.git) - Apply for a grants to kick-start Adobe Express Add-on development.
+
 ## Videos 🎬
 - [Marketing and monetizing Adobe Express add-ons | with Eugen Pflueger](https://www.youtube.com/watch?v=5cIeAlqcmWk) 🏅
 - [Build Adobe Express Add-Ons: Setup Your Development Environment with Zuri Klaschka](https://youtu.be/-sE1Mj5_EtE) 🏅
