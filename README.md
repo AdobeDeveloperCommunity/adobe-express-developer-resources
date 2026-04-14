@@ -30,12 +30,14 @@ Contributions are welcome!
 
 ## Tools 🛠️
 - [Adobe Express Add-on Analytics](https://github.com/mscherotter/express-analytics) - An open-source package to add to an Adobe Express add-on to collect user analytics, a Microsoft Azure function to serve as an endpoint for the package, and a Microsoft Power BI dashboard to visualize the telemetry 🏅
+- [AI Agent skill for Add-on development](https://github.com/Sandgrouse/adobe-express-dev-skill) - An Agent Skill for AI coding assistants that provides expert knowledge and tooling for developing Adobe Express add-ons. Works with Cursor, GitHub Copilot, Windsurf, Claude Code, Continue.dev, Google Antigravity, and any MCP-compatible IDE. 🏅
 
 ## Open Source
 - [Video Transitions](https://github.com/ThisIsMrAli/video-transitions-addon) 🏅
 - [Add-on Analytics](https://github.com/mscherotter/express-analytics) 🏅
 - [FFmpeg Video Processor](https://github.com/ThisIsMrAli/ffmpeg-express-addon) 🏅
 - [Manifest Autocomplete](https://github.com/prasanta352/adobe-express-manifest-autocomplete) 🏅
+
 
 ## Add-ons by Champions 🏅
 - [Creative Coding](https://adobesparkpost.app.link/TR9Mb7TXFLb?addOnId=w2ji95k72) by Michael Scherotter
