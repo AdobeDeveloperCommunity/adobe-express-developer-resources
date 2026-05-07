@@ -24,6 +24,10 @@ Contributions are welcome!
 - [Using FFmpeg to Power Your Adobe Express Add-on](https://medium.com/@uxplugins/using-ffmpeg-to-power-your-adobe-express-add-on-ed246e5c6e6e) - by Ali Yousefi 🏅
 - [How to Add a Payment Gateway to an Adobe Express Add-on](https://medium.com/@fardeenmansuri0316/how-to-add-a-payment-gateway-to-an-adobe-express-add-on-without-losing-your-mind-ee8305d8cda9) - by Fardeen Mansoori 🏅
 
+## Resources
+
+- [Adobe Fund for Design](https://github.com/AdobeDeveloperCommunity/adobe-express-developer-resources.git) - Apply for a grants to kick-start Adobe Express Add-on development.
+
 ## Videos 🎬
 - [Marketing and monetizing Adobe Express add-ons | with Eugen Pflueger](https://www.youtube.com/watch?v=5cIeAlqcmWk) 🏅
 - [Build Adobe Express Add-Ons: Setup Your Development Environment with Zuri Klaschka](https://youtu.be/-sE1Mj5_EtE) 🏅
