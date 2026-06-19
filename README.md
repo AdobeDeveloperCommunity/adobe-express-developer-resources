@@ -45,7 +45,7 @@ Contributions are welcome!
 - [FFmpeg Video Processor](https://github.com/ThisIsMrAli/ffmpeg-express-addon) 🏅
 - [Manifest Autocomplete](https://github.com/prasanta352/adobe-express-manifest-autocomplete) 🏅
 - [Tables For Express](https://github.com/EnventDigital/tables-for-express) 🏅
-- [Add-onlocalization infrastructure](https://github.com/Keshav-poha/adobe-addon-i18n)
+- [Add-on localization infrastructure](https://github.com/Keshav-poha/adobe-addon-i18n)
 
 
 ## Add-ons by Champions 🏅
