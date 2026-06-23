@@ -33,24 +33,24 @@ Contributions are welcome!
 - [UserVoice](https://adobeexpress.uservoice.com/forums/951181-adobe-express)
 
 ## Blogs
+- [Adobe Express Add-On MCP Server is All You Need](https://medium.com/@fardeenmansuri0316/adobe-express-add-on-mcp-server-is-all-you-need-183f257a5ab2) - by Fardeen Mansoori 🏅
+- [How to find the Adobe Express add-on Ideas to build](https://medium.com/@fardeenmansuri0316/how-to-find-the-adobe-express-add-on-ideas-to-build-6a3313365fde) - by Fardeen Mansoori 🏅
+- [Building an Adobe Express Add-on: Markdown Converter](https://medium.com/@fardeenmansuri0316/building-an-adobe-express-add-on-markdown-converter-b14ec8626f89) - by Fardeen Mansoori 🏅
 - [Adobe Express blog posts in Korean](https://velog.io/tags/Adobe-Express) - Translated by Irelander_Kai 🏅
 - [Using FFmpeg to Power Your Adobe Express Add-on](https://medium.com/@uxplugins/using-ffmpeg-to-power-your-adobe-express-add-on-ed246e5c6e6e) - by Ali Yousefi 🏅
 - [How to Add a Payment Gateway to an Adobe Express Add-on](https://medium.com/@fardeenmansuri0316/how-to-add-a-payment-gateway-to-an-adobe-express-add-on-without-losing-your-mind-ee8305d8cda9) - by Fardeen Mansoori 🏅
-- [How to find the Adobe Express add-on Ideas to build](https://medium.com/@fardeenmansuri0316/how-to-find-the-adobe-express-add-on-ideas-to-build-6a3313365fde) - by Fardeen Mansoori 🏅
-- [Adobe Express Add-On MCP Server is All You Need](https://medium.com/@fardeenmansuri0316/adobe-express-add-on-mcp-server-is-all-you-need-183f257a5ab2) - by Fardeen Mansoori 🏅
-- [Building an Adobe Express Add-on: Markdown Converter](https://medium.com/@fardeenmansuri0316/building-an-adobe-express-add-on-markdown-converter-b14ec8626f89) - by Fardeen Mansoori 🏅
 
 ## Resources
 
 - [Adobe Fund for Design](https://github.com/AdobeDeveloperCommunity/adobe-express-developer-resources.git) - Apply for a grants to kick-start Adobe Express Add-on development.
 
 ## Videos 🎬
-- [Marketing and monetizing Adobe Express add-ons | with Eugen Pflueger](https://www.youtube.com/watch?v=5cIeAlqcmWk) 🏅
-- [Build Adobe Express Add-Ons: Setup Your Development Environment with Zuri Klaschka](https://youtu.be/-sE1Mj5_EtE) 🏅
-- [The UXP to Adobe Express Migration Journey with Zuri Klaschka](https://www.youtube.com/live/ehqmiutaJ0c) 🏅
 - [Complete Guide: Adobe Express Developer MCP Server Setup with Cursor](https://www.youtube.com/watch?v=2361QhkPWrk) - by Fardeen Mansoori 🏅
 - [Adobe Express Add-on Development with Cursor & Add-on Dev MCP Server | Complete Setup Guide](https://www.youtube.com/watch?v=p5qvmxwkg8k) - by Fardeen Mansoori 🏅
 - [Code With Me: Adobe Express Add-on](https://www.youtube.com/watch?v=77D4Jv3ksN0) - by Sonya P. 🏅
+- [Marketing and monetizing Adobe Express add-ons | with Eugen Pflueger](https://www.youtube.com/watch?v=5cIeAlqcmWk) 🏅
+- [Build Adobe Express Add-Ons: Setup Your Development Environment with Zuri Klaschka](https://youtu.be/-sE1Mj5_EtE) 🏅
+- [The UXP to Adobe Express Migration Journey with Zuri Klaschka](https://www.youtube.com/live/ehqmiutaJ0c) 🏅
 
 ## Tools 🛠️
 - [Express Developer AI kit](https://github.com/Irelander/express-developer-aikit) - A CLI and skill kit that complements Adobe Express's official MCP for AI-assisted add-on development. Ships progressively-loaded skills for ideation, implementation, and pre-submission review, plus commands to scan trending add-ons and bootstrap the official MCP across Cursor, Claude Code, VS Code, Codex, and Antigravity. 🏅
