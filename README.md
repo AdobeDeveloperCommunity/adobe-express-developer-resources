@@ -12,12 +12,25 @@ Contributions are welcome!
 <!-- TOC -->
 - [Community Resources for Adobe Express Add-ons](#community-resources-for-adobe-express-add-ons)
   - [Table of Contents](#table-of-contents)
+  - [Official Documentation](#official-documentation)
+  - [Community & Support](#community--support)
   - [Blogs](#blogs)
+  - [Resources](#resources)
   - [Videos 🎬](#videos-)
   - [Tools 🛠️](#tools-️)
   - [Open Source](#open-source)
   - [Add-ons by Champions 🏅](#add-ons-by-champions-)
 <!-- /TOC -->
+
+## Official Documentation
+- [Get started building Express add-ons](https://developer.adobe.com/express/add-ons/docs/guides/)
+- [Sample add-on projects and templates](https://developer.adobe.com/express/add-ons/docs/guides/learn/samples)
+- [Add-on integration guidelines](https://developer.adobe.com/express/add-ons/docs/guides/build/design/)
+
+## Community & Support
+- [Discord](https://discord.com/channels/1093561069689110568/1120801549678022796)
+- [Community Forum](https://community.adobe.com/p/express)
+- [UserVoice](https://adobeexpress.uservoice.com/forums/951181-adobe-express)
 
 ## Blogs
 - [Adobe Express blog posts in Korean](https://velog.io/tags/Adobe-Express) - Translated by Irelander_Kai 🏅
