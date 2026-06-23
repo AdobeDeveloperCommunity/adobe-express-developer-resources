@@ -50,7 +50,7 @@ Contributions are welcome!
 - [The UXP to Adobe Express Migration Journey with Zuri Klaschka](https://www.youtube.com/live/ehqmiutaJ0c) 🏅
 - [Complete Guide: Adobe Express Developer MCP Server Setup with Cursor](https://www.youtube.com/watch?v=2361QhkPWrk) - by Fardeen Mansoori 🏅
 - [Adobe Express Add-on Development with Cursor & Add-on Dev MCP Server | Complete Setup Guide](https://www.youtube.com/watch?v=p5qvmxwkg8k) - by Fardeen Mansoori 🏅
-- [Code With Me: Adobe Express Add-on](https://www.youtube.com/watch?v=77D4Jv3ksN0) - by Sonya P.
+- [Code With Me: Adobe Express Add-on](https://www.youtube.com/watch?v=77D4Jv3ksN0) - by Sonya P. 🏅
 
 ## Tools 🛠️
 - [Express Developer AI kit](https://github.com/Irelander/express-developer-aikit) - A CLI and skill kit that complements Adobe Express's official MCP for AI-assisted add-on development. Ships progressively-loaded skills for ideation, implementation, and pre-submission review, plus commands to scan trending add-ons and bootstrap the official MCP across Cursor, Claude Code, VS Code, Codex, and Antigravity. 🏅
