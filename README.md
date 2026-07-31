@@ -33,6 +33,7 @@ Contributions are welcome!
 - [UserVoice](https://adobeexpress.uservoice.com/forums/951181-adobe-express)
 
 ## Blogs
+- [Build Adobe Express Add-ons Faster with Agent Skills](https://blog.developer.adobe.com/en/publish/2026/07/build-adobe-express-add-ons-faster-with-agent-skills) - by Geoffrey Nwachukwu 🏅
 - [Adobe Express Add-On MCP Server is All You Need](https://medium.com/@fardeenmansuri0316/adobe-express-add-on-mcp-server-is-all-you-need-183f257a5ab2) - by Fardeen Mansoori 🏅
 - [How to find the Adobe Express add-on Ideas to build](https://medium.com/@fardeenmansuri0316/how-to-find-the-adobe-express-add-on-ideas-to-build-6a3313365fde) - by Fardeen Mansoori 🏅
 - [Building an Adobe Express Add-on: Markdown Converter](https://medium.com/@fardeenmansuri0316/building-an-adobe-express-add-on-markdown-converter-b14ec8626f89) - by Fardeen Mansoori 🏅
