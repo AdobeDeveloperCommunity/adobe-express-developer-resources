@@ -26,6 +26,9 @@ Contributions are welcome!
 - [Get started building Express add-ons](https://developer.adobe.com/express/add-ons/docs/guides/)
 - [Sample add-on projects and templates](https://developer.adobe.com/express/add-ons/docs/guides/learn/samples)
 - [Add-on integration guidelines](https://developer.adobe.com/express/add-ons/docs/guides/build/design/)
+- [What's New](https://developer.adobe.com/express/add-ons/docs/guides/getting-started/changelog)
+- [Adobe Express Developer MCP Server](https://developer.adobe.com/express/add-ons/docs/guides/getting-started/local-development/mcp-server)
+
 
 ## Community & Support
 - [Discord](https://discord.com/channels/1093561069689110568/1120801549678022796)
@@ -33,6 +36,8 @@ Contributions are welcome!
 - [UserVoice](https://adobeexpress.uservoice.com/forums/951181-adobe-express)
 
 ## Blogs
+- [Is Your Adobe Express Add-on Ready for Large Document Support?](https://blog.developer.adobe.com/en/publish/2026/07/large-document-support-is-coming-to-adobe-express-what-add-on-developers-need-to-know)
+- [Dark Mode Is Coming to Adobe Express: What Add-on Developers Need to Know](https://blog.developer.adobe.com/en/publish/2026/06/dark-mode-is-coming-to-adobe-express-what-add-on-developers-need-to-know)
 - [Build Adobe Express Add-ons Faster with Agent Skills](https://blog.developer.adobe.com/en/publish/2026/07/build-adobe-express-add-ons-faster-with-agent-skills) - by Geoffrey Nwachukwu 🏅
 - [Adobe Express Add-On MCP Server is All You Need](https://medium.com/@fardeenmansuri0316/adobe-express-add-on-mcp-server-is-all-you-need-183f257a5ab2) - by Fardeen Mansoori 🏅
 - [How to find the Adobe Express add-on Ideas to build](https://medium.com/@fardeenmansuri0316/how-to-find-the-adobe-express-add-on-ideas-to-build-6a3313365fde) - by Fardeen Mansoori 🏅
