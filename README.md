@@ -36,6 +36,7 @@ Contributions are welcome!
 - [UserVoice](https://adobeexpress.uservoice.com/forums/951181-adobe-express)
 
 ## Blogs
+- [From Local to Live: How to Publish Your Adobe Express Add-on](https://blog.developer.adobe.com/en/publish/2026/03/from-local-to-live-how-to-publish-your-adobe-express-add-on) - A practical guide to beta testing, submitting, and publishing an Adobe Express add-on to the Marketplace — by Fardeen Mansoori 🏅
 - [Is Your Adobe Express Add-on Ready for Large Document Support?](https://blog.developer.adobe.com/en/publish/2026/07/large-document-support-is-coming-to-adobe-express-what-add-on-developers-need-to-know)
 - [Dark Mode Is Coming to Adobe Express: What Add-on Developers Need to Know](https://blog.developer.adobe.com/en/publish/2026/06/dark-mode-is-coming-to-adobe-express-what-add-on-developers-need-to-know)
 - [Build Adobe Express Add-ons Faster with Agent Skills](https://blog.developer.adobe.com/en/publish/2026/07/build-adobe-express-add-ons-faster-with-agent-skills) - by Geoffrey Nwachukwu 🏅
