@@ -5,11 +5,14 @@
 All resources are listed in this README. Most entries are external links, but some are stored in this repo (i.e. samples and supporting docs).  
 Contributions are welcome!
 
- 🏅 Indicates work by a [Developer Champion](https://developer.adobe.com/developer-champion/)
+🏅 Indicates work by a [Developer Champion](https://developer.adobe.com/developer-champion/)
 
 <!-- no toc -->
+
 ## Table of Contents
+
 <!-- TOC -->
+
 - [Community Resources for Adobe Express Add-ons](#community-resources-for-adobe-express-add-ons)
   - [Table of Contents](#table-of-contents)
   - [Official Documentation](#official-documentation)
@@ -20,22 +23,24 @@ Contributions are welcome!
   - [Tools 🛠️](#tools-️)
   - [Open Source](#open-source)
   - [Add-ons by Champions 🏅](#add-ons-by-champions-)
-<!-- /TOC -->
+  <!-- /TOC -->
 
 ## Official Documentation
+
 - [Get started building Express add-ons](https://developer.adobe.com/express/add-ons/docs/guides/)
 - [Sample add-on projects and templates](https://developer.adobe.com/express/add-ons/docs/guides/learn/samples)
 - [Add-on integration guidelines](https://developer.adobe.com/express/add-ons/docs/guides/build/design/)
 - [What's New](https://developer.adobe.com/express/add-ons/docs/guides/getting-started/changelog)
 - [Adobe Express Developer MCP Server](https://developer.adobe.com/express/add-ons/docs/guides/getting-started/local-development/mcp-server)
 
-
 ## Community & Support
+
 - [Discord](https://discord.com/channels/1093561069689110568/1120801549678022796)
 - [Community Forum](https://community.adobe.com/p/express)
 - [UserVoice](https://adobeexpress.uservoice.com/forums/951181-adobe-express)
 
 ## Blogs
+
 - [How to Fix CORS Errors in Your Adobe Express Add-on](https://blog.developer.adobe.com/en/publish/2026/05/how-to-fix-cors-errors-in-your-adobe-express-add-on) - A practical guide to diagnosing and fixing CORS issues across local development, private listings, and public Marketplace releases — by Fardeen Mansoori 🏅
 - [From Local to Live: How to Publish Your Adobe Express Add-on](https://blog.developer.adobe.com/en/publish/2026/03/from-local-to-live-how-to-publish-your-adobe-express-add-on) - A practical guide to beta testing, submitting, and publishing an Adobe Express add-on to the Marketplace — by Fardeen Mansoori 🏅
 - [Is Your Adobe Express Add-on Ready for Large Document Support?](https://blog.developer.adobe.com/en/publish/2026/07/large-document-support-is-coming-to-adobe-express-what-add-on-developers-need-to-know)
@@ -53,6 +58,7 @@ Contributions are welcome!
 - [Adobe Fund for Design](https://github.com/AdobeDeveloperCommunity/adobe-express-developer-resources.git) - Apply for a grants to kick-start Adobe Express Add-on development.
 
 ## Videos 🎬
+
 - [Complete Guide: Adobe Express Developer MCP Server Setup with Cursor](https://www.youtube.com/watch?v=2361QhkPWrk) - by Fardeen Mansoori 🏅
 - [Adobe Express Add-on Development with Cursor & Add-on Dev MCP Server | Complete Setup Guide](https://www.youtube.com/watch?v=p5qvmxwkg8k) - by Fardeen Mansoori 🏅
 - [Code With Me: Adobe Express Add-on](https://www.youtube.com/watch?v=77D4Jv3ksN0) - by Sonya P. 🏅
@@ -61,6 +67,8 @@ Contributions are welcome!
 - [The UXP to Adobe Express Migration Journey with Zuri Klaschka](https://www.youtube.com/live/ehqmiutaJ0c) 🏅
 
 ## Tools 🛠️
+
+- [Bolt Express](https://hyperbrew.co/resources/bolt-express/) - A lightning-fast framework for building modern Adobe Express Add-ons from start to finish in Svelte, React, or Vue built on Vite + TypeScript + Sass.
 - [Express Add-on Test Kit](https://github.com/Keshav-poha/express-addon-test-kit) - A monorepo designed for testing Express add-ons in dual-runtime environments (Iframe UI and Document Sandbox) directly in Node.js/jsdom environments (e.g., using Vitest or Jest).
 - [Add-on localisation infrastructure](https://github.com/Keshav-poha/adobe-addon-i18n) - A zero-dependency, React-first localization infrastructure built exclusively for the Adobe Express ecosystem.
 - [Express Developer AI kit](https://github.com/Irelander/express-developer-aikit) - A CLI and skill kit that complements Adobe Express's official MCP for AI-assisted add-on development. Ships progressively-loaded skills for ideation, implementation, and pre-submission review, plus commands to scan trending add-ons and bootstrap the official MCP across Cursor, Claude Code, VS Code, Codex, and Antigravity. 🏅
@@ -69,12 +77,14 @@ Contributions are welcome!
 - [Community MCP server](https://github.com/EnventDigital/community-express-dev-mcp) - An open source MCP server for AI coding assistants that provides Adobe Express and Sprectrum UI documentation, and code samples. 🏅
 
 ## Open Source
+
 - [Video Transitions](https://github.com/ThisIsMrAli/video-transitions-addon) 🏅
 - [FFmpeg Video Processor](https://github.com/ThisIsMrAli/ffmpeg-express-addon) 🏅
 - [Manifest Autocomplete](https://github.com/prasanta352/adobe-express-manifest-autocomplete) 🏅
 - [Tables For Express](https://github.com/EnventDigital/tables-for-express) 🏅
 
 ## Add-ons by Champions 🏅
+
 - [Creative Coding](https://adobesparkpost.app.link/TR9Mb7TXFLb?addOnId=w2ji95k72) by Michael Scherotter
   - [Demo video](https://youtu.be/4h_5W9ElKdQ) of Creative Coding
 - [Galeryst](https://adobesparkpost.app.link/TR9Mb7TXFLb?addOnId=w4l3n1752) by Michael Scherotter
