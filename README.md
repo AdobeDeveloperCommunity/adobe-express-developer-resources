@@ -75,7 +75,7 @@ Contributions are welcome!
 
 ### Developer Tools & Examples
 
-- [QR Code Add-on with Backend](https://github.com/ThisIsMrAli/qrcode) - Practical sample demonstrating backend integration, authentication, persistent user data, and CORS handling.
+- [QR Code Add-on with Backend](https://github.com/ThisIsMrAli/qrcode) - Practical sample demonstrating backend integration, authentication, persistent user data, and CORS handling. 🏅
 - [DataCanvas](https://github.com/sumitkumarraju/datacanvas) - Open-source add-on demonstrating automated testing, release checks, packaging validation, and CSV-based chart generation.
 
 ## Open Source
