@@ -18,6 +18,8 @@ Contributions are welcome!
   - [Resources](#resources)
   - [Videos 🎬](#videos-)
   - [Tools 🛠️](#tools-️)
+    - [AI Agents & MCP](#ai-agents--mcp)
+    - [Developer Tools & Examples](#developer-tools--examples)
   - [Open Source](#open-source)
   - [Add-ons by Champions 🏅](#add-ons-by-champions-)
 <!-- /TOC -->
@@ -65,6 +67,16 @@ Contributions are welcome!
 - [Adobe Express Add-on Analytics](https://github.com/mscherotter/express-analytics) - An open-source package to add to an Adobe Express add-on to collect user analytics, a Microsoft Azure function to serve as an endpoint for the package, and a Microsoft Power BI dashboard to visualize the telemetry 🏅
 - [AI Agent skill for Add-on development](https://github.com/Sandgrouse/adobe-express-dev-skill) - An Agent Skill for AI coding assistants that provides expert knowledge and tooling for developing Adobe Express add-ons. Works with Cursor, GitHub Copilot, Windsurf, Claude Code, Continue.dev, Google Antigravity, and any MCP-compatible IDE. 🏅
 - [Community MCP server](https://github.com/EnventDigital/community-express-dev-mcp) - An open source MCP server for AI coding assistants that provides Adobe Express and Sprectrum UI documentation, and code samples. 🏅
+
+### AI Agents & MCP
+
+- [Adobe Express Bridge](https://github.com/themorida-commits/adobe-express-bridge) - Local bridge enabling AI agents to manipulate Adobe Express documents, insert text and shapes, and export pages.
+- [Adobe Express Add-on Agent Skill](https://github.com/itsryanarmani/skills/blob/main/adobe-express-addon/SKILL.md) - Agent instructions covering add-on development, API integration, permissions, and marketplace submission.
+
+### Developer Tools & Examples
+
+- [QR Code Add-on with Backend](https://github.com/ThisIsMrAli/qrcode) - Practical sample demonstrating backend integration, authentication, persistent user data, and CORS handling.
+- [DataCanvas](https://github.com/sumitkumarraju/datacanvas) - Open-source add-on demonstrating automated testing, release checks, packaging validation, and CSV-based chart generation.
 
 ## Open Source
 - [Video Transitions](https://github.com/ThisIsMrAli/video-transitions-addon) 🏅
